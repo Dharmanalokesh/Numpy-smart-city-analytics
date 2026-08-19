@@ -1,5 +1,5 @@
 # 📊 Smart City Traffic & Retail Analytics
-
+ 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
