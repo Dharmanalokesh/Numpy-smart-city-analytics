@@ -1,4 +1,4 @@
-# 📊 Smart City Traffic & Retail Analytics
+ # 📊 Smart City Traffic & Retail Analytics
  
 <p align="center">
 
